@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    box-sizing: border-box;
+    height: 100px;
+    padding: 30px;  
+    border: 1px solid #cccdd0;
+    
+}
+.first-div{
+    float: left;
+    margin: 10px;
+    color: #645bae;
+    font-size: 30px;
+}
+.second-div{
+    float: right;
+    background-color: #685dc5;
+    padding:10px;
+    width: 100px;
+    color: white;
+    font-size: larger;
+    border-radius: 20px;
+    
+}
+
+.section-1{
+    display: flex;
+}
+.text-part{
+    width: 500px;
+    height: 400px;
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.image-part{
+    margin-top: 200px;
+    width: 500px;
+    height: 150px;
+    margin: 50px;
+}
+#text-color{
+    color: #685dc5;
+}
+.text-area{
+    display: flex;
+    
+   
+}
+#lern-text{
+    font-family: "bello-pro-1", "bello-pro-2", sans-serif;
+    color: gray;
+    font-weight: 300px;
+}
+
+.employment{
+    width: 80%;
+    height: 150px;
+    background-color: #645bae;
+    margin-left: 150px;
+    display: flex;
+    padding: 20px;
+    
+}
+.employment-section{
+    margin-left: 120px;
+    color: white;
+    padding: 10px;
+    font-size: larger;
+    
+}
+.info-section{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.porgram{
+    box-sizing: border-box;
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    text-align: center;
+    margin-top: 200px;
+    margin: 50px;
+    padding: 10px;
+    color:#535353;
+    
+}
+
+.porgram2{
+    box-sizing: border-box;
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    text-align: center;
+    margin-top: 200px;
+    margin: 50px;
+    padding: 10px;
+    color: #535353;
+}
+
+
